@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Yadigar Onur Fıçıcı — Full Stack Developer</title>
+  <desc id="desc">A minimal dark developer profile banner with a code editor.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#151719"/>
+      <stop offset="1" stop-color="#090a0b"/>
+    </linearGradient>
+    <linearGradient id="editor" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#1b1d1f"/>
+      <stop offset="1" stop-color="#111315"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="12" fill="url(#background)"/>
+  <path d="M0 236H1200M0 90H1200M840 0V300" stroke="#ffffff" stroke-opacity=".035"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="66" y="76" fill="#f4f4f3" font-size="34" font-weight="800" letter-spacing="-2">onur<tspan fill="#9fa6a3">.</tspan></text>
+    <text x="66" y="145" fill="#f4f4f3" font-size="31" font-weight="650" letter-spacing="-.5">Yadigar Onur Fıçıcı</text>
+    <text x="67" y="178" fill="#bec3c1" font-size="17" font-weight="500">Full Stack Developer</text>
+    <text x="67" y="237" fill="#858d89" font-size="14" letter-spacing="1.1">FROM IDEAS TO SYSTEMS THAT WORK</text>
+  </g>
+
+  <g transform="translate(725 42)">
+    <rect width="408" height="215" rx="9" fill="url(#editor)" stroke="#444947"/>
+    <path d="M0 39H408" stroke="#393d3c"/>
+    <g fill="#6e7471"><circle cx="21" cy="20" r="3.1"/><circle cx="33" cy="20" r="3.1"/><circle cx="45" cy="20" r="3.1"/></g>
+    <text x="65" y="25" fill="#a0a6a3" font-family="Consolas,Menlo,monospace" font-size="11">app / Projects.php</text>
+    <text x="386" y="25" fill="#737b77" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="10">PHP / LARAVEL</text>
+    <g font-family="Consolas,Menlo,monospace" font-size="13">
+      <g fill="#646b68"><text x="19" y="76">01</text><text x="19" y="103">02</text><text x="19" y="130">03</text><text x="19" y="157">04</text></g>
+      <text x="55" y="76"><tspan fill="#b9d1cd">$projects</tspan><tspan fill="#d0d4d1"> = </tspan><tspan fill="#b9c9d7">Project</tspan><tspan fill="#d0d4d1">::query()</tspan></text>
+      <text x="75" y="103"><tspan fill="#d0d4d1">-&gt;where(</tspan><tspan fill="#d5b7a0">'published'</tspan><tspan fill="#d0d4d1">, </tspan><tspan fill="#c7b7d6">true</tspan><tspan fill="#d0d4d1">)</tspan></text>
+      <text x="75" y="130" fill="#d0d4d1">-&gt;latest()</text>
+      <text x="75" y="157" fill="#d0d4d1">-&gt;get();</text>
+    </g>
+    <path d="M0 182H408" stroke="#393d3c"/>
+    <circle cx="21" cy="198" r="3" fill="#91b2a4"/>
+    <text x="33" y="202" fill="#9da5a1" font-family="Consolas,Menlo,monospace" font-size="10">BUILD / OPTIMIZE / DELIVER</text>
+  </g>
+</svg>
