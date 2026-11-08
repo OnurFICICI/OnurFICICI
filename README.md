@@ -15,9 +15,9 @@ I build web applications that bring together the interface, application logic, d
 ### Selected work
 
 - [**Free Laser Cut Files**](https://freelasercutfiles.com/) — A Laravel-based digital design platform with a searchable content catalog, downloads and management workflows.
-- **E-commerce & CRM infrastructure** — Product sales pages connected to a central order pool, automated agent assignment and operational reporting.
-- **Learning management systems** — Education platforms combining course content, assessments, progress analysis and management tools.
-- **Ticket marketplace** — A platform bringing event listings, ticket sales and order management together.
+- **E-commerce & CRM infrastructure — Yıldem** — A PhalconPHP system connecting sales pages, a central order pool, automated agent assignment and operational reporting.
+- **Learning management systems — Dahiders & Hocalara Geldik** — PhalconPHP platforms combining course content, assessments, progress analysis and management tools.
+- **Biletalsat — Ticket Marketplace** — A PhalconPHP platform bringing event listings, ticket sales and order management together.
 - **Compressor service tracking** — A custom PHP application for equipment records, maintenance plans and service history.
 
 ### Technologies
