@@ -16,7 +16,7 @@ I build web applications that bring together the interface, application logic, d
 
 - [**StoRank — AI-Powered ASO Platform**](https://storank.app/) — A live SaaS product I developed end to end for App Store and Google Play keyword discovery, rank tracking and competitor analysis.
   - AI turns real store measurements into actionable ASO recommendations, app idea research and review-reply drafts. An MCP integration connects the platform's data to ChatGPT and Claude.
-  - Built with Python, FastAPI, JavaScript, SQLite and REST APIs, with extensive use of AI-assisted development, testing and automation.
+  - Built with Python, FastAPI, JavaScript, SQLite and REST APIs, including an administration dashboard and background automation. AI-assisted tools support development, testing and ongoing improvements.
 - [**Free Laser Cut Files**](https://freelasercutfiles.com/) — A Laravel-based digital design platform with a searchable content catalog, downloads and management workflows.
 - **E-commerce & CRM infrastructure — Yıldem** — A PhalconPHP system connecting sales pages, a central order pool, automated agent assignment and operational reporting.
 - **Learning management systems — Dahiders & Hocalara Geldik** — PhalconPHP platforms combining course content, assessments, progress analysis and management tools.
